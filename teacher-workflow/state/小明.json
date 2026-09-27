@@ -1,0 +1,36 @@
+{
+  "student_id": "小明",
+  "basic": {
+    "grade": "初二",
+    "subject": ["数学"],
+    "school": "",
+    "notes": "模拟学生，用于全流程演示（2026-09-27）"
+  },
+  "proficiency": {
+    "overall": 68,
+    "knowledge_map": [
+      { "topic": "一元二次方程-概念与判别式", "mastery": 75, "updated": "2026-09-27" },
+      { "topic": "一元二次方程-公式法", "mastery": 60, "updated": "2026-09-27" },
+      { "topic": "因式分解法", "mastery": 70, "updated": "2026-09-27" },
+      { "topic": "整式运算-计算准确性", "mastery": 55, "updated": "2026-09-27" }
+    ]
+  },
+  "weaknesses": [
+    { "topic": "一元二次方程-公式法", "attribution": "计算断链", "detail": "代入求根公式后符号与化简频繁出错", "plan": "A8 计算训练：步骤模板化 + 每日 10 题即时反馈" },
+    { "topic": "应用题审题", "attribution": "审题失误", "detail": "漏看限制条件（如“至少”“且”）", "plan": "A7 归因后训练圈画关键词与复述题意" }
+  ],
+  "preferences": {
+    "learning_style": "视觉",
+    "pacing": "中",
+    "motivation": "考试提分",
+    "known_triggers": "步骤多时易急躁"
+  },
+  "zpd": {
+    "mastered": "一元二次方程概念、判别式基本应用",
+    "next": "公式法 / 因式分解法规范求解（当前主练）",
+    "too_far": "韦达定理综合题（暂缓）"
+  },
+  "history": [
+    { "date": "2026-09-27", "stage": "A1", "summary": "模拟学情诊断：公式法计算断链为主因，审题偶失误", "outcome": "画像建立", "notes": "演示数据" }
+  ]
+}
