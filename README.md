@@ -96,10 +96,12 @@ python teacher-workflow/scripts/validate_profile.py teacher-workflow/state/小�
 # 退出码：0=通过  1=结构错误  2=用法错误/文件不存在
 ```
 
-## 贡献
+## 贡献与交流
 
 欢迎通过 Issue 或 Pull Request 贡献新的环节、学科示范（数学已示范，可扩展语文/英语/物理等）或改进现有规范。
 
+**交流 QQ 群：1079921178**，欢迎加入讨论使用与改进。
+
 ## 许可
 
-本仓库仅含技能定义与流程文档，具体许可待定，使用请保留出处。
+本仓库基于 **MIT License** 开源（见 `LICENSE` 文件），可自由使用、修改与分发，使用请保留版权与出处。
